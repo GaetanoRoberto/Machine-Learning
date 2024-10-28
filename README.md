@@ -1,4 +1,4 @@
-# Machine-Learning Project: Fingerprint spoo ng detection
+# Machine-Learning Project: Fingerprint spoofing detection
 ## Description
  The goal of the project is the development of a classi er to detect whether a ngerprint image represents
  an authentic ngerprint or a spoofed ngerprint, i.e. a ngerprint image obtained by cloning, possibly
